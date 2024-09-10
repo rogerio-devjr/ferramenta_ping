@@ -1,1 +1,1 @@
-# ferramenta_ping
+Tive a idéia de criar este algoritmo para realizar a prática de comandos em C# e visando a melhoria em meu trabalho, tendo em vista que realizo muito consultas de ping e rotas nos equipamentos que realizo manutenção. Ainda está em fase inicial, mas pretendo inserir mais mais opções no programa.
